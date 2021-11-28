@@ -1,0 +1,59 @@
+.bg-img{
+    background-image: url(https://i.imgur.com/xZlLvgJ.png);
+    background-attachment: fixed;
+    background-size: 100% 80%;
+}
+
+.txt-p{
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    margin-top: 20%;
+}
+
+.alinhamento-botao{
+    align-items: center;
+}
+.img-lugar{
+    border-radius: 5px;
+    max-width: 150px;
+}
+
+.icone-star{
+    margin-right: 4px;
+    max-width: 20px;  
+}
+
+.button-lgbt{
+    background-color: #db04b7;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-acessibilidade{
+    background-color: #6a80e0;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-etnia{
+    background-color: #e7a730;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
