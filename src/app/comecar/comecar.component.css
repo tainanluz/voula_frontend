@@ -9,9 +9,28 @@
     margin-top: 20%;
 }
 
-.alinhamento-botao{
-    align-items: center;
+.button-criar{
+    background-color: #d4d7ff;
+    margin-right: 10px; 
+    border-radius: 12px;
+    color: rgb(44, 44, 44);
+    padding: 5px 20px 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px; 
 }
+
+.img-icone{
+    border-radius: 8px;
+    max-width: 50px;
+    margin-right: 20px;
+}
+
+.star{
+    margin-left: 18px;
+}
+
 .img-lugar{
     border-radius: 5px;
     max-width: 150px;
@@ -57,3 +76,88 @@
     display: inline-block;
     font-size: 12px;
 }
+
+.button-corrimao {
+    background-color: #2dc794;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-elevador {
+    background-color: #c31e34;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-visual {
+    background-color: #ac02d6;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-corri {
+    background-color: #2dc794;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-cognitivo {
+    background-color: #ff9101;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-rampa {
+    background-color: #00919e;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.button-postar{
+    background-color: #fcd452;
+    margin-right: 10px; 
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+

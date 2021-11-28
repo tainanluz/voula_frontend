@@ -2,3 +2,19 @@
 {
     font-size: 20px;
 }
+
+.margin-text-quem{
+    margin-left: 50px;
+}
+
+h5{
+    margin-top: 30px;
+    font-size: 50px;
+    color: rgb(75, 75, 75);
+    font-style: bold;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(75, 75, 75);
+}
